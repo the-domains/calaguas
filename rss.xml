@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[calaguas]]></title>
         <description><![CDATA[calaguas]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/calaguas/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 14 Feb 2016 01:24:20 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 06 Mar 2016 12:16:39 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/calaguas/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c6979749-15de-4c32-b9f5-e3fd803cdc6a.jpg">]]></description>
-            <link>undefinedf3273987-843d-4df0-88d8-f7703cc37035/index.html</link>
+            <link>https://thegrid.ai/calaguas/f3273987-843d-4df0-88d8-f7703cc37035/index.html</link>
             <guid isPermaLink="false">f3273987-843d-4df0-88d8-f7703cc37035</guid>
             <pubDate>Sun, 14 Feb 2016 01:24:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f741f036-c108-43b5-a8f1-d6f4c977d9c1.JPG">]]></description>
+            <link>https://thegrid.ai/calaguas/9e720846-804f-4392-b14a-30af8233363b/index.html</link>
+            <guid isPermaLink="false">9e720846-804f-4392-b14a-30af8233363b</guid>
+            <pubDate>Sun, 06 Mar 2016 12:16:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
